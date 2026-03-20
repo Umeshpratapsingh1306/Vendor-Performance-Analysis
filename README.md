@@ -29,7 +29,7 @@ The goal is to identify **top-performing vendors**, **low-performing vendors/bra
 
 ##  Dashboard Screenshot
 
-![Vendor Performance Dashboard](Dashboard/vendor_performance.jpg)
+![Vendor Performance Dashboard](vendor_performance.jpg)
 
 **Key Insights:**
 - A small group of vendors contributes a large share of sales and purchases
